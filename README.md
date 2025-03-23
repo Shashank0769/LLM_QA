@@ -69,3 +69,11 @@ The UI will be accessible at `http://localhost:8501`
 - **Visualization:** Added revenue trends and geographical insights in Streamlit.
 - **Challenge:** Ensuring natural language queries return meaningful structured insights.
 
+## Snapshots
+
+![image](https://github.com/user-attachments/assets/bfbe481d-0097-48b9-9c60-19206f6cc261)
+
+## Analytics
+
+![image](https://github.com/user-attachments/assets/c72adc2c-4178-4473-b7cd-dd36370b8b1d)
+
