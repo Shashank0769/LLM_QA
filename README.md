@@ -19,8 +19,8 @@ This project is designed to analyze hotel booking data, extract insights, and pr
 ## 🚀 Installation & Setup
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-repo/hotel-booking-analytics.git
-cd hotel-booking-analytics
+git clone https://github.com/Shashank0769/LLM-QA.git
+cd LLM-QA
 ```
 
 ### 2️⃣ Install Dependencies
